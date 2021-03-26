@@ -1,0 +1,12 @@
+{
+  "name": "@vento/common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo testing server with version: $npm_package_version"
+  },
+  "keywords": [],
+  "author": "Jorge Vento <vento.ji@gmail.com> (http://www.ventoji.es/)",
+  "license": "ISC"
+}

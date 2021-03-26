@@ -1,0 +1,16 @@
+{
+  "name": "@vento/server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jorge Vento <vento.ji@gmail.com> (http://www.ventoji.es/)",
+  "license": "ISC",
+  "dependencies": {
+    "@vento/common": "1.0.0",
+    "graphql-yoga": "^1.18.3"
+  }
+}
