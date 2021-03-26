@@ -1,6 +1,6 @@
 {
   "name": "@vento/CalcModule",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "Jorge Vento <vento.ji@gmail.com> (http://www.ventoji.es/)",
   "license": "ISC",
   "dependencies": {
-    "@vento/AdditionModule": "1.0.0",
-    "@vento/SubstractionModule" : "1.0.0"
+    "@vento/AdditionModule": "^1.1.0",
+    "@vento/SubstractionModule": "^1.1.0"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@vento/server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "Jorge Vento <vento.ji@gmail.com> (http://www.ventoji.es/)",
   "license": "ISC",
   "dependencies": {
-    "@vento/common": "1.0.0",
+    "@vento/common": "^1.1.0",
     "graphql-yoga": "^1.18.3"
   }
 }
